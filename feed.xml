@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Havne Bageren</title>
+    <link href="https://havnebageren.dk/feed.xml" rel="self" />
+    <link href="https://havnebageren.dk" />
+    <updated>2025-02-27T19:21:14+01:00</updated>
+    <author>
+        <name>Tamas</name>
+    </author>
+    <id>https://havnebageren.dk</id>
+
+    <entry>
+        <title>Galleri</title>
+        <author>
+            <name>Tamas</name>
+        </author>
+        <link href="https://havnebageren.dk/welcome.html"/>
+        <id>https://havnebageren.dk/welcome.html</id>
+
+        <updated>2025-02-27T18:03:00+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://havnebageren.dk/media/posts/2/gallery/AF1QipNFRev_14TSLWrYstMD9SI10avKjJiTtWcOyxEFs1024.jpeg" data-size="1024x768"><img loading="lazy" src="https://havnebageren.dk/media/posts/2/gallery/AF1QipNFRev_14TSLWrYstMD9SI10avKjJiTtWcOyxEFs1024-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://havnebageren.dk/media/posts/2/gallery/AF1QipNlsjEoJ1_QdK2koc20c4TkDXJIAi1lk_XIDseNs1031-k-no.jpeg" data-size="1031x580"><img loading="lazy" src="https://havnebageren.dk/media/posts/2/gallery/AF1QipNlsjEoJ1_QdK2koc20c4TkDXJIAi1lk_XIDseNs1031-k-no-thumbnail.jpeg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://havnebageren.dk/media/posts/2/gallery/AF1QipNoUKuzlBkbUp13nIAVLyGJYuJS6L3xwcql1q0Gs1354-k-no.jpeg" data-size="762x1354"><img loading="lazy" src="https://havnebageren.dk/media/posts/2/gallery/AF1QipNoUKuzlBkbUp13nIAVLyGJYuJS6L3xwcql1q0Gs1354-k-no-thumbnail.jpeg" alt="" width="720" height="1279"></a></figure>
+<figure class="gallery__item"><a href="https://havnebageren.dk/media/posts/2/gallery/AF1QipNsidYhSgxjwaDgYWH0qW1FgWoSazXXaezy9lovs1016-k-no.jpeg" data-size="762x1016"><img loading="lazy" src="https://havnebageren.dk/media/posts/2/gallery/AF1QipNsidYhSgxjwaDgYWH0qW1FgWoSazXXaezy9lovs1016-k-no-thumbnail.jpeg" alt="" width="720" height="960"></a></figure>
+<figure class="gallery__item"><a href="https://havnebageren.dk/media/posts/2/gallery/AF1QipOF429gRFZ1ozxeR9oR8xK97maWw5KVB2iDCN9Ws1354-k-no.jpeg" data-size="609x1354"><img loading="lazy" src="https://havnebageren.dk/media/posts/2/gallery/AF1QipOF429gRFZ1ozxeR9oR8xK97maWw5KVB2iDCN9Ws1354-k-no-thumbnail.jpeg" alt="" width="609" height="1354"></a></figure>
+<figure class="gallery__item"><a href="https://havnebageren.dk/media/posts/2/gallery/AF1QipOF-HYcgsymQLz9iOYPR-haK4wYtQiNW5XFzQzFs1024.jpeg" data-size="1024x768"><img loading="lazy" src="https://havnebageren.dk/media/posts/2/gallery/AF1QipOF-HYcgsymQLz9iOYPR-haK4wYtQiNW5XFzQzFs1024-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://havnebageren.dk/media/posts/2/gallery/AF1QipOxXmDWp9Z-BQ7dLRXJxwac-xBla6fXywAPeEzxs1024.jpeg" data-size="1024x768"><img loading="lazy" src="https://havnebageren.dk/media/posts/2/gallery/AF1QipOxXmDWp9Z-BQ7dLRXJxwac-xBla6fXywAPeEzxs1024-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://havnebageren.dk/media/posts/2/gallery/AF1QipPTrKjALBI4wDp7WnA70q3GHXbboU9mk07g-mWfs1024.jpeg" data-size="1024x768"><img loading="lazy" src="https://havnebageren.dk/media/posts/2/gallery/AF1QipPTrKjALBI4wDp7WnA70q3GHXbboU9mk07g-mWfs1024-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Havne Bageren",
+    "description": "",
+    "home_page_url": "https://havnebageren.dk",
+    "feed_url": "https://havnebageren.dk/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Tamas"
+    },
+    "items": [
+        {
+            "id": "https://havnebageren.dk/welcome.html",
+            "url": "https://havnebageren.dk/welcome.html",
+            "title": "Galleri",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://havnebageren.dk/media/posts/2/gallery/AF1QipNFRev_14TSLWrYstMD9SI10avKjJiTtWcOyxEFs1024.jpeg\" data-size=\"1024x768\"><img loading=\"lazy\" src=\"https://havnebageren.dk/media/posts/2/gallery/AF1QipNFRev_14TSLWrYstMD9SI10avKjJiTtWcOyxEFs1024-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://havnebageren.dk/media/posts/2/gallery/AF1QipNlsjEoJ1_QdK2koc20c4TkDXJIAi1lk_XIDseNs1031-k-no.jpeg\" data-size=\"1031x580\"><img loading=\"lazy\" src=\"https://havnebageren.dk/media/posts/2/gallery/AF1QipNlsjEoJ1_QdK2koc20c4TkDXJIAi1lk_XIDseNs1031-k-no-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://havnebageren.dk/media/posts/2/gallery/AF1QipNoUKuzlBkbUp13nIAVLyGJYuJS6L3xwcql1q0Gs1354-k-no.jpeg\" data-size=\"762x1354\"><img loading=\"lazy\" src=\"https://havnebageren.dk/media/posts/2/gallery/AF1QipNoUKuzlBkbUp13nIAVLyGJYuJS6L3xwcql1q0Gs1354-k-no-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"1279\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://havnebageren.dk/media/posts/2/gallery/AF1QipNsidYhSgxjwaDgYWH0qW1FgWoSazXXaezy9lovs1016-k-no.jpeg\" data-size=\"762x1016\"><img loading=\"lazy\" src=\"https://havnebageren.dk/media/posts/2/gallery/AF1QipNsidYhSgxjwaDgYWH0qW1FgWoSazXXaezy9lovs1016-k-no-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"960\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://havnebageren.dk/media/posts/2/gallery/AF1QipOF429gRFZ1ozxeR9oR8xK97maWw5KVB2iDCN9Ws1354-k-no.jpeg\" data-size=\"609x1354\"><img loading=\"lazy\" src=\"https://havnebageren.dk/media/posts/2/gallery/AF1QipOF429gRFZ1ozxeR9oR8xK97maWw5KVB2iDCN9Ws1354-k-no-thumbnail.jpeg\" alt=\"\" width=\"609\" height=\"1354\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://havnebageren.dk/media/posts/2/gallery/AF1QipOF-HYcgsymQLz9iOYPR-haK4wYtQiNW5XFzQzFs1024.jpeg\" data-size=\"1024x768\"><img loading=\"lazy\" src=\"https://havnebageren.dk/media/posts/2/gallery/AF1QipOF-HYcgsymQLz9iOYPR-haK4wYtQiNW5XFzQzFs1024-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://havnebageren.dk/media/posts/2/gallery/AF1QipOxXmDWp9Z-BQ7dLRXJxwac-xBla6fXywAPeEzxs1024.jpeg\" data-size=\"1024x768\"><img loading=\"lazy\" src=\"https://havnebageren.dk/media/posts/2/gallery/AF1QipOxXmDWp9Z-BQ7dLRXJxwac-xBla6fXywAPeEzxs1024-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://havnebageren.dk/media/posts/2/gallery/AF1QipPTrKjALBI4wDp7WnA70q3GHXbboU9mk07g-mWfs1024.jpeg\" data-size=\"1024x768\"><img loading=\"lazy\" src=\"https://havnebageren.dk/media/posts/2/gallery/AF1QipPTrKjALBI4wDp7WnA70q3GHXbboU9mk07g-mWfs1024-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n</div></div>",
+            "author": {
+                "name": "Tamas"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-02-27T18:03:00+01:00",
+            "date_modified": "2025-02-27T19:21:14+01:00"
+        }
+    ]
+}
